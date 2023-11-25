@@ -40,9 +40,7 @@ Welcome to the File Management System, a modern and user-friendly application fo
 
 1. Clone the repository.
 2. Install dependencies for the backend and frontend.
-3. Set up AWS services (Lambda, S3, etc.).
-4. Configure environment variables.
-5. Run the application locally.
+3. Run the application locally.
 
 ## Backend Development
 
