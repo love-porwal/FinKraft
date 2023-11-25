@@ -46,21 +46,28 @@ Welcome to the File Management System, a modern and user-friendly application fo
 
 ### Setup
 
+```
 cd backend
 npm install
+```
 
 ### Run Locally
 
+```
 npm start
+```
 
 ## Frontend Development
 
 ### Setup
 
+```
 cd frontend
 npm install
+```
 
 ### Run Locally
-
+```
 npm start
+```
 
